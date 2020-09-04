@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Register/Register.cshtml";
+}
+
+<h1>Register</h1>
+<form id="formLogin" role="form">
+    <div class="textbox">
+        <i class="fas fa-user"></i>
+        <input type="text" id="username" placeholder="Username">
+    </div>
+
+    <div class="textbox">
+        <i class="fas fa-address-card"></i>
+        <input type="email" id="email" placeholder="Email">
+    </div>
+
+    <div class="textbox">
+        <i class="fas fa-phone"></i>
+        <input type="number" id="phone" placeholder="Phone Number">
+    </div>
+
+    <div class="textbox">
+        <i class="fas fa-lock"></i>
+        <input type="password" id="password" placeholder="Password">
+    </div>
+
+    <div class="textbox">
+        <i class="fas fa-lock"></i>
+        <input type="password" id="confirmPassword" placeholder="Confirm Password">
+    </div>
+
+    <input type="button" class="btn" typeof="submit" onclick="Register()" value="Sign in">
+    <div class="col-md-12">
+        <input type="checkbox" onclick="myFunction()">Show Password
+    </div>
+</form>
+<p></p>
+
+<p class="mb-0">
+    <a href="/login" class="text-center"> Have an account? Login here.</a>
+</p>
+
+
+
+@section scriptLogin{
+    <script src="~/js/Login.js"></script>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("password");
+            if (x.type === "password") {
+                x.type = "text";
+            } else {
+                x.type = "password";
+            }
+
+        }
+
+    </script>
+}
+
