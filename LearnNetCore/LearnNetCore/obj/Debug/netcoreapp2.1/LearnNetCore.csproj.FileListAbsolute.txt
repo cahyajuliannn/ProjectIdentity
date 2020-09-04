@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\LearnNetCore.deps.json
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\LearnNetCore.runtimeconfig.json
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\LearnNetCore.runtimeconfig.dev.json
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\LearnNetCore.dll
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\bin\Debug\netcoreapp2.1\LearnNetCore.pdb
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.AssemblyInfo.cs
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.dll
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.pdb
+C:\Users\User\source\repos\LearnNetCore\LearnNetCore\obj\Debug\netcoreapp2.1\LearnNetCore.genruntimeconfig.cache
